@@ -28,10 +28,10 @@ Language English.
 
 Installation:
 
-    download .zip file and unpack
-    install the directory wfc-cronjob in your admin directory
-    protect your wfc-cronjob directory (always better)
-    define your cronjob running /wfc-cronjob/wfc_cron.php running 2x at e.g. 07.00 and 15.00 (0 7,15 * * *)
+- download .zip file and unpack
+- install the directory wfc-cronjob in your admin directory
+- protect your wfc-cronjob directory (always better)
+- define your cronjob running /wfc-cronjob/wfc_cron.php running 2x at e.g. 07.00 and 15.00 (0 7,15 * * *)
 
 Extension support:
 

@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Prestashop / tool / checks detects modified / hacked files / configuration
 
-(see https://www.prestashop.com/forums/topic/562846-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-config/ or http://ooawebstore.freeforums.org/)
+(see https://www.prestashop.com/forums/topic/562846-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-config/ or https://ooawebstore.freeforums.org/)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 

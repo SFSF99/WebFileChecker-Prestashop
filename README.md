@@ -1,4 +1,4 @@
-# WebFileChecker-Prestashop
+# WebFileChecker-Prestashop ("Web File Checker")
 
 WebFileChecker extension / module for Prestashop / tool / checks detects modified / hacked files / configuration
 
